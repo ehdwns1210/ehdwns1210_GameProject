@@ -1,0 +1,113 @@
+﻿  BallonTowerDefense.cpp
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(115): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(193): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(194): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(194): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(194): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(195): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(195): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(195): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(196): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(196): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(196): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(197): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(197): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(197): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(198): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(198): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(198): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(199): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(199): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(199): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(200): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(200): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(200): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(201): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(201): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(201): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(202): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(202): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(202): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(203): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(203): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(219): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(220): error C2146: 구문 오류: ')'이(가) 'Sleep' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(220): error C2146: 구문 오류: ';'이(가) 'Sleep' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(223): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(224): error C2146: 구문 오류: ')'이(가) 'Sleep' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(224): error C2146: 구문 오류: ';'이(가) 'Sleep' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(228): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(229): error C2146: 구문 오류: ')'이(가) 'Sleep' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(229): error C2146: 구문 오류: ';'이(가) 'Sleep' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(231): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(232): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(232): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(243): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(244): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(244): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(244): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(245): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(245): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(245): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(246): error C2143: 구문 오류: ')'이(가) 'for' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(246): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(248): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(249): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(249): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(250): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(251): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(251): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(251): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(252): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(252): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(252): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(253): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(253): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(253): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(254): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(254): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(254): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(255): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(255): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(255): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(256): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(256): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(256): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(257): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(257): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(257): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(258): error C2146: 구문 오류: ')'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(258): error C2146: 구문 오류: ';'이(가) 'gotoxy' 식별자 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(258): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(261): error C2143: 구문 오류: ')'이(가) 'for' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(261): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(263): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(264): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(265): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(268): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(281): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(282): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(283): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(286): error C2059: 구문 오류: '?'
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(295): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(298): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(428): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(446): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(463): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(464): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(464): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(466): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(467): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(467): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(469): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(470): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(470): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(472): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(473): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(473): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\ehdwn\source\repos\ballontowerdefense\ballontowerdefense\ballontowerdefense.cpp(473): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
